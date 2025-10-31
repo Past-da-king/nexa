@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">nexus</string>
+    <string name="create_your_profile">Create your profile</string>
+    <string name="profile_creation_subtitle">This is how people will see you on the app</string>
+    <string name="add_profile_photo">Add profile photo</string>
+    <string name="username">Username</string>
+    <string name="create_profile">Create Profile</string>
+    <string name="new_chat">New Chat</string>
+    <string name="no_conversations">No conversations yet. Tap the + button to find a peer.</string>
+    <string name="profile">Profile</string>
+    <string name="back_to_discovery">Back to Discovery</string>
+    <string name="connection_security_status">Connection Security Status</string>
+    <string name="type_a_message">Type a message...</string>
+    <string name="send_message">Send Message</string>
+    <string name="idle">Idle</string>
+    <string name="nearby">Nearby</string>
+    <string name="requests">Requests</string>
+    <string name="discover">Discover</string>
+    <string name="scan_for_nearby_peers">Scan for Nearby Peers</string>
+    <string name="no_peers_found">No peers found. Tap Scan to start.</string>
+    <string name="no_pending_friend_requests">No pending friend requests.</string>
+    <string name="friend_requests_title">These people want to connect with you:</string>
+    <string name="connect">Connect</string>
+    <string name="accept">Accept</string>
+    <string name="reject">Reject</string>
+    <string name="chats">Chats</string>
+    <string name="settings">Settings</string>
+</resources>
